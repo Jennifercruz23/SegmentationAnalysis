@@ -1,2 +1,1 @@
-# SegmentationAnalysis
-Professional SegmentationAnalysis infrastructure with SegmentationAnalysis-optimized segmentationanalysis-optimization and enterprise cloud-ready capabilities
+.
